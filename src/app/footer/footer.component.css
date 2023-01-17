@@ -1,0 +1,29 @@
+a{
+    font-size: 12px;
+    font-weight: 500px;
+}
+header{
+    margin-top: 100px;
+}
+@media only screen and (max-width: 480px) {
+    body {}
+    a{
+        font-size: 12px;
+        font-weight: 500px;
+    }
+    header{
+        margin-top: 100px;
+    }
+
+}
+@media only screen and (max-width: 1024px) {
+    body {}
+    a{
+        font-size: 12px;
+        font-weight: 500px;
+    }
+    header{
+        margin-top: 100px;
+    }
+
+}
